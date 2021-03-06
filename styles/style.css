@@ -141,7 +141,6 @@
 }
 
 .section-title {
-  margin: auto;
   padding: 0;
   line-height: 1.15;
   font-size: 60px;
@@ -305,26 +304,6 @@
   margin-bottom: 0;
 }
 
-/* .kaufman__triangle {
-  background-image: url(/images/kaufman-triangle.svg);
-  z-index: 1;
-  position: absolute;
-  right: -210px;
-  top: 0;
-  bottom: 0;
-  background-size: 877px 877px;
-  background-repeat: no-repeat;
-}  */
-
-
-/* и элемента с модификатором вида ключ-значение */
-/* .table__cell_theme_dark {
-  width: 200px;
-  color: white;
-  margin-right: 0;
-  margin-top: 80px;
-} */
-
 /* FOOTER */
 
 .footer {
@@ -413,3 +392,5 @@
   height: 16px;
   margin-right: 10px;
 }
+
+/* serdechniy pristup okolo menya  */
