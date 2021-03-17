@@ -1,0 +1,12 @@
+.cards__item {
+    margin: 0;
+    margin-right: 100px;
+    width: 240px;
+    padding-top: 60px;
+    /* border: 1px solid red; */
+}
+
+.cards__item:nth-child(3) {
+    margin-right: 0;
+}
+
