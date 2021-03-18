@@ -3,6 +3,8 @@
     width: 515px;
     height: 316px;
     border: none;
+    position: relative;
+    top: 60px;
 }
 
 .video__iframe:nth-child(2) {
